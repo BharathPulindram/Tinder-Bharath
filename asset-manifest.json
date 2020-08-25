@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tinder-Bharath/static/css/main.09e74193.chunk.css",
+    "main.js": "/Tinder-Bharath/static/js/main.75ffed04.chunk.js",
+    "main.js.map": "/Tinder-Bharath/static/js/main.75ffed04.chunk.js.map",
+    "runtime-main.js": "/Tinder-Bharath/static/js/runtime-main.580d61d8.js",
+    "runtime-main.js.map": "/Tinder-Bharath/static/js/runtime-main.580d61d8.js.map",
+    "static/js/2.80a6be50.chunk.js": "/Tinder-Bharath/static/js/2.80a6be50.chunk.js",
+    "static/js/2.80a6be50.chunk.js.map": "/Tinder-Bharath/static/js/2.80a6be50.chunk.js.map",
+    "index.html": "/Tinder-Bharath/index.html",
+    "precache-manifest.4f8eb8641cd49147701cf93706d16f07.js": "/Tinder-Bharath/precache-manifest.4f8eb8641cd49147701cf93706d16f07.js",
+    "service-worker.js": "/Tinder-Bharath/service-worker.js",
+    "static/css/main.09e74193.chunk.css.map": "/Tinder-Bharath/static/css/main.09e74193.chunk.css.map",
+    "static/js/2.80a6be50.chunk.js.LICENSE.txt": "/Tinder-Bharath/static/js/2.80a6be50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.580d61d8.js",
+    "static/js/2.80a6be50.chunk.js",
+    "static/css/main.09e74193.chunk.css",
+    "static/js/main.75ffed04.chunk.js"
+  ]
+}
